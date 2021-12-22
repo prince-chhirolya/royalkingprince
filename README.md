@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @royalkingprince
 - 👀 I’m interested in airtificial inteligence 
-- 🌱 I’m currently learning python programing 
+- 🌱 I’m currently a learner 
 - 💞️ I’m looking to collaborate on GitHub projects
 - 📫 How to reach me chhirolyaprince@gmail.com 
 
