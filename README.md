@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @royalkingprince
+- 👋 Hi, I’m Prince Chhirolya
 - 👀 I’m interested in airtificial inteligence 
 - 🌱 I’m currently a learner 
 - 💞️ I’m looking to collaborate on GitHub projects
